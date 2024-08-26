@@ -305,7 +305,8 @@ GEM
       parallel_tests (>= 3.3.0, < 5)
       rspec (>= 3.10)
     unicode-display_width (2.5.0)
-    vcr (6.2.0)
+    vcr (6.3.1)
+      base64
     webmock (3.23.1)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
